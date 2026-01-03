@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/93c2f905-66c7-4c7e-a269-58cb3d78bccc" />
+<img width="793" height="315" alt="image" src="https://github.com/user-attachments/assets/553ebef6-f6d0-46f8-a944-cd655fdf5378" />
+
 
 # Tailorit 
 ---
