@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Tailorit",
+  "version": "0.0.1",
+  "description": "Screen-aware resume tailoring side panel",
+  "permissions": ["sidePanel", "storage", "activeTab", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_title": "Tailorit"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "side_panel": { "default_path": "src/sidepanel.html" },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
