@@ -1,5 +1,7 @@
-# Tailorit 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/93c2f905-66c7-4c7e-a269-58cb3d78bccc" />
 
+# Tailorit 
+---
 **Tailorit** is a Chrome side-panel extension that helps students tailor their resumes to a job description **without changing formatting or fabricating experience**.
 
 Instead of rewriting resumes blindly, Tailorit:
