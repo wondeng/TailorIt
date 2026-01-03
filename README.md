@@ -1,5 +1,10 @@
-<img width="300" height="150
-" alt="image" src="https://github.com/user-attachments/assets/553ebef6-f6d0-46f8-a944-cd655fdf5378" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/553ebef6-f6d0-46f8-a944-cd655fdf5378"
+    alt="Tailorit logo"
+    width="200"
+  />
+</p>
 
 
 # Tailorit 
